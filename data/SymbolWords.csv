@@ -1,0 +1,157 @@
+﻿word,category,level
+Symbol,0,0
+Space Pirates,0,0
+Future,0,0
+Syndicates,0,0
+The ecosystem flywheel,0,0
+Quadratic funding,0,0
+Championship team,0,0
+Rockstars,0,0
+Financial freedom,0,0
+Transparency,0,0
+Hardfork,0,0
+Cyprus,0,0
+Valkyrie,0,0
+Harlock,0,0
+The Symbol Syndicate,0,0
+Lingua Franca,0,0
+The Fuschicho Foundation,0,0
+Account,1,1
+Private key,1,1
+Address,1,1
+Balance,1,1
+Importance,1,1
+Multisig Account,1,1
+Restrictions,1,1
+Account Restriction,2,2
+AccountAddressRestrictionTransaction,2,2
+AccountMosaicRestrictionTransaction,2,2
+AccountOperationRestrictionTransaction,2,2
+Aggregate Transaction,3,0
+Aggregate complete,3,0
+Aggregate bonded,3,0
+AggregateCompleteTransaction,3,2
+AggregateBondedTransaction,3,2
+HashLockTransaction,3,2
+Block,4,1
+Header,4,1
+Rollbacks,4,1
+Finalization,4,1
+VotingKeyLinkTransaction,4,2
+Consensus,5,1
+PoS Plus,5,1
+Proof of Stake Plus,5,2
+Importance score,5,2
+Cross-Chain Swaps,6,2
+Hashed TimeLock Contract,6,2
+Protocol,6,1
+SecretLockTransaction,6,2
+SecretProofTransaction,6,2
+Cryptography,7,1
+Key pair,7,2
+Private key,7,2
+Public key,7,2
+Signature,7,2
+Address,7,1
+Mnemonics,7,1
+Mnemonic Phrase,7,2
+Data Validation,8,2
+Merkle tree,8,2
+Transactions Merkle Tree,8,2
+Receipts Merkle Tree,8,2
+Leaf nodes,8,2
+Merkle root,8,2
+Merkle proof,8,2
+Fees,9,1
+Network currency,9,2
+Transaction fee,9,2
+Dynamic fee multiplier,9,2
+Harvesting,10,0
+Eligibility criteria,10,2
+Harvesting mosaic,10,2
+Rewards,10,1
+Harvesting types,10,2
+Local harvesting,10,2
+Remote harvesting,10,2
+Delegated harvesting,10,2
+VrfKeyLinkTransaction,10,2
+AccountKeyLinkTransaction,10,2
+NodeKeyLinkTransaction,10,2
+PersistentDelegationRequestTransaction,10,2
+Inflation,11,1
+inflationary mosaic,11,2
+Metadata,12,1
+Persistence,12,1
+Permissions,12,1
+AccountMetadataTransaction,12,2
+MosaicMetadataTransaction,12,2
+NamespaceMetadataTransaction,12,2
+Mosaic,13,0
+Divisibility,13,0
+Initial supply,13,0
+Duration,13,0
+Supply mutable,13,0
+Transferable,13,0
+Restrictable,13,0
+Revokable,13,0
+Creation fee,13,0
+MosaicDefinitionTransaction,13,2
+MosaicSupplyChangeTransaction,13,2
+MosaicSupplyRevocationTransaction,13,2
+Mosaic Restriction,14,2
+Global restriction,14,2
+Mosaic Id,14,1
+MosaicGlobalRestrictionTransaction,14,2
+MosaicAddressRestrictionTransaction,14,2
+Multisig Account,15,0
+Cosignatories,15,2
+Multi-factor authorization,15,2
+Assets ownership,15,2
+MultisigAccountModificationTransaction,15,2
+Namespace,16,0
+Subnamespaces,16,0
+Alias,16,1
+Rental fee,16,1
+NamespaceRegistrationTransaction,16,2
+AddressAliasTransaction,16,2
+MosaicAliasTransaction,16,2
+Node,17,0
+Peer node,17,0
+RocksDB,17,0
+Node reputation,17,2
+API node,17,0
+Plugin,17,0
+Architecture,17,0
+Security,17,0
+Receipt,17,0
+Reward Programs,17,0
+Voting Node Program,17,0
+Bonded Deposit,17,0
+Transaction,17,0
+Signing a transaction,17,2
+Announcing a transaction,17,2
+Validation,17,0
+Transfer Transaction,17,2
+MongoDB,17,0
+REST gateway,17,0
+XEMBook,18,0
+mikunNEM,18,0
+Tresto,18,0
+COMSA,18,0
+nembear,18,0
+daoka,18,0
+shusan,18,0
+Arcana,18,0
+NEM_ENAKO,18,0
+NFT-Drive,18,0
+Takao Asayama,18,0
+nemlog,18,0
+Mahorobart,18,0
+h gocchi,18,0
+EXYM,18,0
+BoTarosan,18,0
+ahikicoin,18,0
+GodTanu2,18,0
+Hanabatake,18,0
+Dusan,18,0
+ESSAN,18,0
