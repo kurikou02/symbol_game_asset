@@ -105,7 +105,7 @@ MosaicGlobalRestrictionTransaction,14,2
 MosaicAddressRestrictionTransaction,14,2
 Multisig Account,15,0
 Cosignatories,15,2
-Multi-factor authorization,15,2
+Multifactor authorization,15,2
 Assets ownership,15,2
 MultisigAccountModificationTransaction,15,2
 Namespace,16,0
@@ -142,8 +142,8 @@ nembear,18,0
 daoka,18,0
 shusan,18,0
 Arcana,18,0
-NEM_ENAKO,18,0
-NFT-Drive,18,0
+NEMENAKO,18,0
+NFTDrive,18,0
 Takao Asayama,18,0
 nemlog,18,0
 Mahorobart,18,0
