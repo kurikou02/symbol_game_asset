@@ -42,7 +42,7 @@ Consensus,5,1
 PoS Plus,5,1
 Proof of Stake Plus,5,2
 Importance score,5,2
-Cross-Chain Swaps,6,2
+CrossChain Swaps,6,2
 Hashed TimeLock Contract,6,2
 Protocol,6,1
 SecretLockTransaction,6,2
